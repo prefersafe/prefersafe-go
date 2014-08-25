@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/prefersafe/go/prefersafe",
+	"ImportPath": "github.com/prefersafe/prefersafe-go",
 	"GoVersion": "go1.3",
 	"Deps": []
 }

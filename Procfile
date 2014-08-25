@@ -1,1 +1,1 @@
-web: prefersafe
+web: prefersafe-go
